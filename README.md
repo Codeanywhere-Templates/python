@@ -1,4 +1,4 @@
-This is an example Python project used in Codeanywhere.
+
 
 [Try it out](https://app.codeanywhere.com/#https://github.com/Codeanywhere-Templates/python)
 
